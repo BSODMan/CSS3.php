@@ -1,0 +1,6 @@
+To use CSS3.php, you need a web host.
+Then download the CSS3.php.zip file, extract the file.
+When you're done, upload the file to the server.
+To use the file, first rename your target css file's extension to .php.
+Then include the CSS3.php file to the target css file.
+You can use the CSS3 functions but replace your dashes (-) to underscores (_)
